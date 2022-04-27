@@ -1,0 +1,64 @@
+body
+{
+    background-size: cover;
+}
+
+h3
+{
+  margin: 0;
+  background-color: snow;
+  font-style: italic;
+}
+
+span
+{
+  font-size: 19px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.speed_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 18px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right
+}
+
+.volume_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 18px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 18px;
+}
+
+canvas
+{
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: snow;
+    border-style: double;
+}
