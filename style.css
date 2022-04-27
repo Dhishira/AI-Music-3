@@ -1,64 +1,33 @@
 body
 {
-    background-size: cover;
+    background-size: 100%;
 }
 
 h3
 {
-  margin: 0;
-  background-color: snow;
+  background-color: white;
   font-style: italic;
+  color: black;
+  margin: 0;
+  box-shadow: 5px 15px 50px slategrey;
+  border-color: grey;
 }
 
 span
 {
-  font-size: 19px;
+  font-size: 18px;
+  font-style: normal;
 }
 
-.div_speed
+#song_name
 {
-    float: left;
-}
-
-.speed_img
-{
-    width: 150px;
-    border-radius: 100px;
-}
-
-#speed
-{
-    font-size: 18px;
-    margin: 15px;
-}
-
-.div_volume
-{
-    float: right
-}
-
-.volume_img
-{
-    width: 150px;
-    border-radius: 100px;
-}
-
-#volume
-{
-    font-size: 18px;
-    margin: 15px;
-}
-
-.play_button
-{
-    width: 130px;
-    font-size: 18px;
+  font-size: 18px;
+  font-style: normal;
 }
 
 canvas
 {
-    margin-top: 10px;
-    border-radius: 10px;
-    border-color: snow;
-    border-style: double;
+  margin-top: 100px;
+  border-color: steelblue;
+  border-style: dashed;
 }
